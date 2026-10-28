@@ -1,0 +1,289 @@
+{
+ "cutter": "KSJ N03 20260101 04 (Miyagi), 8339 polygons, not dissolved",
+ "sheets": {
+  "10ND4": {
+   "read": 750000,
+   "kept": 107719,
+   "no_layer_polygon": 3862,
+   "cells_in_several_layer_polygons": 11
+  },
+  "10NE3": {
+   "read": 750000,
+   "kept": 35094,
+   "no_layer_polygon": 2163,
+   "cells_in_several_layer_polygons": 4
+  },
+  "10NF3": {
+   "read": 750000,
+   "kept": 73009,
+   "no_layer_polygon": 10488,
+   "cells_in_several_layer_polygons": 216
+  },
+  "10NF4": {
+   "read": 525172,
+   "kept": 192186,
+   "no_layer_polygon": 23735,
+   "cells_in_several_layer_polygons": 633
+  },
+  "10OD1": {
+   "read": 750000,
+   "kept": 59009,
+   "no_layer_polygon": 626,
+   "cells_in_several_layer_polygons": 0
+  },
+  "10OD2": {
+   "read": 750000,
+   "kept": 699095,
+   "no_layer_polygon": 60053,
+   "cells_in_several_layer_polygons": 1213
+  },
+  "10OD3": {
+   "read": 750000,
+   "kept": 97,
+   "no_layer_polygon": 0,
+   "cells_in_several_layer_polygons": 0
+  },
+  "10OD4": {
+   "read": 750000,
+   "kept": 695046,
+   "no_layer_polygon": 117334,
+   "cells_in_several_layer_polygons": 1484
+  },
+  "10OE1": {
+   "read": 750000,
+   "kept": 654970,
+   "no_layer_polygon": 249801,
+   "cells_in_several_layer_polygons": 811
+  },
+  "10OE2": {
+   "read": 750000,
+   "kept": 174457,
+   "no_layer_polygon": 109281,
+   "cells_in_several_layer_polygons": 15
+  },
+  "10OE3": {
+   "read": 750000,
+   "kept": 750000,
+   "no_layer_polygon": 445298,
+   "cells_in_several_layer_polygons": 8
+  },
+  "10OE4": {
+   "read": 750000,
+   "kept": 707696,
+   "no_layer_polygon": 644629,
+   "cells_in_several_layer_polygons": 57
+  },
+  "10OF1": {
+   "read": 749170,
+   "kept": 285455,
+   "no_layer_polygon": 58889,
+   "cells_in_several_layer_polygons": 160
+  },
+  "10OF2": {
+   "read": 246059,
+   "kept": 246058,
+   "no_layer_polygon": 133793,
+   "cells_in_several_layer_polygons": 158
+  },
+  "10OF3": {
+   "read": 682730,
+   "kept": 679567,
+   "no_layer_polygon": 140163,
+   "cells_in_several_layer_polygons": 510
+  },
+  "10OF4": {
+   "read": 33205,
+   "kept": 33205,
+   "no_layer_polygon": 18137,
+   "cells_in_several_layer_polygons": 0
+  },
+  "10PD1": {
+   "read": 750001,
+   "kept": 132412,
+   "no_layer_polygon": 1148,
+   "cells_in_several_layer_polygons": 13
+  },
+  "10PD2": {
+   "read": 750000,
+   "kept": 749939,
+   "no_layer_polygon": 282898,
+   "cells_in_several_layer_polygons": 616
+  },
+  "10PD3": {
+   "read": 750000,
+   "kept": 63642,
+   "no_layer_polygon": 184,
+   "cells_in_several_layer_polygons": 0
+  },
+  "10PD4": {
+   "read": 750000,
+   "kept": 745880,
+   "no_layer_polygon": 149341,
+   "cells_in_several_layer_polygons": 2736
+  },
+  "10PE1": {
+   "read": 750000,
+   "kept": 750000,
+   "no_layer_polygon": 679901,
+   "cells_in_several_layer_polygons": 0
+  },
+  "10PE2": {
+   "read": 750000,
+   "kept": 750000,
+   "no_layer_polygon": 615066,
+   "cells_in_several_layer_polygons": 27
+  },
+  "10PE3": {
+   "read": 750000,
+   "kept": 750000,
+   "no_layer_polygon": 440982,
+   "cells_in_several_layer_polygons": 948
+  },
+  "10PE4": {
+   "read": 687875,
+   "kept": 687875,
+   "no_layer_polygon": 552888,
+   "cells_in_several_layer_polygons": 101
+  },
+  "10PF1": {
+   "read": 670737,
+   "kept": 670737,
+   "no_layer_polygon": 174613,
+   "cells_in_several_layer_polygons": 1246
+  },
+  "10PF2": {
+   "read": 16813,
+   "kept": 16812,
+   "no_layer_polygon": 3533,
+   "cells_in_several_layer_polygons": 34
+  },
+  "10PF3": {
+   "read": 561877,
+   "kept": 561877,
+   "no_layer_polygon": 179410,
+   "cells_in_several_layer_polygons": 1059
+  },
+  "10PF4": {
+   "read": 20365,
+   "kept": 20365,
+   "no_layer_polygon": 5983,
+   "cells_in_several_layer_polygons": 124
+  },
+  "10QD1": {
+   "read": 750000,
+   "kept": 318976,
+   "no_layer_polygon": 7067,
+   "cells_in_several_layer_polygons": 389
+  },
+  "10QD2": {
+   "read": 750000,
+   "kept": 750000,
+   "no_layer_polygon": 263602,
+   "cells_in_several_layer_polygons": 1237
+  },
+  "10QD3": {
+   "read": 750000,
+   "kept": 474791,
+   "no_layer_polygon": 60970,
+   "cells_in_several_layer_polygons": 390
+  },
+  "10QD4": {
+   "read": 750000,
+   "kept": 750000,
+   "no_layer_polygon": 279013,
+   "cells_in_several_layer_polygons": 598
+  },
+  "10QE1": {
+   "read": 694441,
+   "kept": 694441,
+   "no_layer_polygon": 544168,
+   "cells_in_several_layer_polygons": 99
+  },
+  "10QE2": {
+   "read": 60390,
+   "kept": 60388,
+   "no_layer_polygon": 42932,
+   "cells_in_several_layer_polygons": 16
+  },
+  "10QE3": {
+   "read": 429880,
+   "kept": 429880,
+   "no_layer_polygon": 398243,
+   "cells_in_several_layer_polygons": 28
+  },
+  "10QF1": {
+   "read": 145792,
+   "kept": 145791,
+   "no_layer_polygon": 29943,
+   "cells_in_several_layer_polygons": 503
+  },
+  "10QF2": {
+   "read": 46616,
+   "kept": 46616,
+   "no_layer_polygon": 4968,
+   "cells_in_several_layer_polygons": 101
+  },
+  "10RC2": {
+   "read": 749122,
+   "kept": 200411,
+   "no_layer_polygon": 23300,
+   "cells_in_several_layer_polygons": 1391
+  },
+  "10RC4": {
+   "read": 420678,
+   "kept": 27971,
+   "no_layer_polygon": 1403,
+   "cells_in_several_layer_polygons": 172
+  },
+  "10RD1": {
+   "read": 749455,
+   "kept": 713518,
+   "no_layer_polygon": 131051,
+   "cells_in_several_layer_polygons": 2344
+  },
+  "10RD2": {
+   "read": 750000,
+   "kept": 750000,
+   "no_layer_polygon": 487129,
+   "cells_in_several_layer_polygons": 111
+  },
+  "10RD3": {
+   "read": 244102,
+   "kept": 244102,
+   "no_layer_polygon": 37161,
+   "cells_in_several_layer_polygons": 533
+  },
+  "10RD4": {
+   "read": 626399,
+   "kept": 626399,
+   "no_layer_polygon": 260705,
+   "cells_in_several_layer_polygons": 1390
+  },
+  "10RE1": {
+   "read": 290665,
+   "kept": 290665,
+   "no_layer_polygon": 245668,
+   "cells_in_several_layer_polygons": 55
+  },
+  "10RE3": {
+   "read": 195549,
+   "kept": 195549,
+   "no_layer_polygon": 92627,
+   "cells_in_several_layer_polygons": 308
+  },
+  "10SD2": {
+   "read": 160836,
+   "kept": 160836,
+   "no_layer_polygon": 28353,
+   "cells_in_several_layer_polygons": 264
+  },
+  "10SE1": {
+   "read": 22287,
+   "kept": 22287,
+   "no_layer_polygon": 6829,
+   "cells_in_several_layer_polygons": 86
+  }
+ },
+ "layer_polygons": 6657,
+ "rows": 18194823
+}
